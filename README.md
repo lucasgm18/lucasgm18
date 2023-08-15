@@ -2,12 +2,12 @@
 
 - 🌱 Estudando Java
 - 😄 Pronouns: ele/dele
-  
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=lucasgm18&theme=tokyonight)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=lucasgm18&theme=Tokyonight)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgm18&theme=tokyonight)
+  # 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lucasgm18&theme=tokyonight" alt="GitHub Stats"/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucasgm18&theme=Tokyonight" alt="GitHub Streak Stats"/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgm18&theme=tokyonight" alt="Top Languages Stats"/>
+</p>
 
 
 
