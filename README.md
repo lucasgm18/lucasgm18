@@ -4,7 +4,7 @@
 - 😄 Pronouns: ele/dele
 
 <p align="center">
-  <img width="45%%" src="https://github-readme-stats.vercel.app/api?username=lucasgm18&show_icons=true&bg_color=00000000">
+  <img width="50%%" src="https://github-readme-stats.vercel.app/api?username=lucasgm18&show_icons=true&bg_color=00000000">
   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgm18&layout=compact&bg_color=00000000">
 </p>
 
