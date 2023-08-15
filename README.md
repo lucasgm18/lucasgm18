@@ -2,11 +2,13 @@
 
 - 🌱 Estudando Java
 - 😄 Pronouns: ele/dele
+  
+# 📊 GitHub Stats:
 
-<p align="center">
-  <img width="50%%" src="https://github-readme-stats.vercel.app/api?username=lucasgm18&show_icons=true&bg_color=00000000">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgm18&layout=compact&bg_color=00000000">
-</p>
+![](https://github-readme-stats.vercel.app/api?username=lucasgm18&theme=tokyonight)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=lucasgm18&theme=Tokyonight)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgm18&theme=tokyonight)
+
 
 
  
@@ -25,6 +27,11 @@
   <a href="https://instagram.com/legomes1808" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>  
 
-![Profile Views](https://komarev.com/ghpvc/?username=lucasgm18)
+![Profile Views](https://komarev.com/ghpvc/?username=lucasgm18)  
+
+
+
+
+
 
 
