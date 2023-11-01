@@ -1,37 +1,41 @@
-### Olá! Eu sou Lucas Gomes. 
+<div align="center">
 
-- 🌱 Estudando Java
-- 😄 Pronouns: ele/dele
-  # 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lucasgm18&theme=tokyonight" alt="GitHub Stats"/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucasgm18&theme=Tokyonight" alt="GitHub Streak Stats"/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgm18&theme=tokyonight" alt="Top Languages Stats"/>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=529A4C&center=true&vCenter=true&random=false&width=435&lines=%E2%AD%90Welcome+to+my+profile!;I'm+Lucas)](https://git.io/typing-svg)
 
 
 
- 
-<div style="display: inline_block"><br>
-   <img align="center" alt="lucas-java" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-   <img align="center" alt="Lucas-HTML" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-   <img align="center" alt="Lucas-CSS" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">   
-    <img align="center" alt="lucas-Js" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg ">     
-          
-</div>
+![giphy](https://github.com/lucasgm18/lucasgm18/assets/127359287/16cf23c7-cb5d-49fb-97dd-8df9df5b7244)
 
-##
+
+<div align="left">
+
+
+## 🧔 About me :
+<p> I am a young technology enthusiast, and I am currently studying systems analysis and development at the ETE - Advogado José David Gil Rodrigues and at Wyden. </p>
+
+
+
+
+
+## 📚 My skills : 
+
+- Java
+- Spring
+- mySQL
+- Python
+- JavaScript
+
+<br>
+<div align="center">
+
+![second](https://github.com/lucasgm18/lucasgm18/assets/127359287/b6289703-ba11-4779-a8d7-45761afdef23)
 
 <div>
-   <a href = "mailto:contatolucasgomesm1808@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/legomes1808" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-</div>  
-
-![Profile Views](https://komarev.com/ghpvc/?username=lucasgm18)  
 
 
 
+### You can contact me in: 
 
-
-
-
+[![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasgomesm1808@gmail.com) 
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasgmelo/)
+[![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/GomesZaratustra)
