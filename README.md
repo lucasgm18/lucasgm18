@@ -11,7 +11,7 @@
 
 
 ## 🧔 About me :
-<p> I am a young technology enthusiast, and I am currently studying systems analysis and development at the ETE - Advogado José David Gil Rodrigues and at Wyden. </p>
+<p> I'm a passionate developer with a degree in Systems Analysis and Development and currently pursuing a degree in Software Engineering. I love programming and the challenges that come with it. My favorite programming language is Java, but I enjoy exploring and working with various other languages and technologies. </p>
 
 
 
