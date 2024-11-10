@@ -15,7 +15,7 @@
     │
     ├── bio.txt
     │   ├── he/him - brazilian - (pt/br + english)
-    │   ├── systems analysis and development technician
+    │   ├── systems analysis and development/technical degree
     │   │   └── at ETE - Advogado José David Gil Rodrigues
     │         └── and Teacher at ETE - Advogado José David Gil Rodrigues
     │   ├── software engineering undergraduated
