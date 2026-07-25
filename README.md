@@ -18,7 +18,7 @@
     │   ├── systems analysis and development/technical degree
     │   │   └── at ETE - Advogado José David Gil Rodrigues
     │         └── and Teacher at ETE - Advogado José David Gil Rodrigues
-    │   ├── software engineering undergraduated
+    │   ├── software engineer
     │   
     | 
     │
